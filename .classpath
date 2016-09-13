@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="G:/project/学生成绩管理系统/mysql-connector-java-5.1.26-bin.jar"/>
+	<classpathentry kind="lib" path="G:/project/学生成绩管理系统/poi-3.12.jar"/>
+	<classpathentry kind="lib" path="G:/project/学生成绩管理系统/poi-3.12-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
